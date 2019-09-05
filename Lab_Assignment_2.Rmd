@@ -60,3 +60,29 @@ My overarching goal is to gain a strong feeling of comfortablility while using R
 
 I used to want to be an engineer. After a summer of Interning with A Mechanical Engineering company called Poole and Kent, I realized it wasn't for me. Interning, as many know, manily involves paper work. To make my life easier and more orgainized, I work with LaTex the whole summer. I created User manuals, Warranty Letters, Payments orders, etc. The exposer to code sparked som fire within me to pursue data science.  
 
+---
+### Julia Foley
+
+**Picture**
+![](me1.pdf)
+
+**Question that can be answered with Data Analysis**
+
+What Country is the cheapest to vacation to/in?
+
+**After College Goals**
+
+Six months after Graduation, I would like to be in law school. Five years later, I would like to be working for the FBI as an Intelligence Analyst. 
+
+**My Greatest Career Accomplishment**
+
+I hope that my greatest career accomplishment is that I can write a book about the minds of the criminals I have caught and what it is like interacting with them. 
+
+**My Course Goal**
+
+I am hoping to learn more about coding and Data Science. Data Science is a useful tool no matter what career path you choose.
+
+**Personal**
+When I retire, I want to live off the grid and travel the world.
+
+---
