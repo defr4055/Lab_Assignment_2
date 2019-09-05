@@ -22,11 +22,41 @@ As a team
 
 ---
 ### Declan Franklin (Section 001)
-Picture:
+**Picture:**
+
+```{r, out.width = "400px", message=FALSE}
+knitr::include_graphics("Me.JPG")
+```
+ 
+
+**My Non-Statistical Question That Can Be Answered With Data Analysis:**
+
+What's the difference between Statistics and Data Analysis(Honestly)?
 
 
-![](Me.JPG) 
 
 
+**After College Goals:**
+
+6 months after Boulder I want to be in a smaller apartment either in Denver or back home in Baltimore teaching kids with dyslexia computer science and math. 5 Years after Boulder, I'm hoping I'll have my masters and a career in data science that helps me get my PHD.
+
+
+
+
+**My Greatest Career Accomplishment:**
+
+I don't necissarly expect to find the cure for cancer, but all I really want to do is pursue a career where I can help make other peoples lives less stressful.
+
+
+
+**My Course Goal:**
 
 My overarching goal is to gain a strong feeling of comfortablility while using RStudio. I want put my use my experince with RStudio as a means of computing data that hopfully the world can use one day.
+
+
+
+
+**Personal:**
+
+I used to want to be an engineer. After a summer of Interning with A Mechanical Engineering company called Poole and Kent, I realized it wasn't for me. Interning, as many know, manily involves paper work. To make my life easier and more orgainized, I work with LaTex the whole summer. I created User manuals, Warranty Letters, Payments orders, etc. The exposer to code sparked som fire within me to pursue data science.  
+
