@@ -10,7 +10,6 @@ knitr::opts_knit$set(eval = TRUE)
 ```
 
 
-
 ## About The Team
 
 Team Picture:
@@ -59,6 +58,12 @@ My overarching goal is to gain a strong feeling of comfortablility while using R
 **Personal:**
 
 I used to want to be an engineer. After a summer of Interning with A Mechanical Engineering company called Poole and Kent, I realized it wasn't for me. Interning, as many know, manily involves paper work. To make my life easier and more orgainized, I work with LaTex the whole summer. I created User manuals, Warranty Letters, Payments orders, etc. The exposer to code sparked som fire within me to pursue data science.  
+
+
+
+**Give Declan Feedback below:**
+
+
 
 ---
 ### Julia Foley
