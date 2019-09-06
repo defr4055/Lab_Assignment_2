@@ -20,7 +20,7 @@ P-Hackers
 
 
 **Team Goals:** 
-As a team, we would like to learn how to effectively communicate data and information through R. We would like to understand the basics of Data Science. 
+As a team, we would like to learn how to effectively communicate data and information through R. We would like to understand the basics of Data Science. Additionally, We would like to understand how to apply it to an actual project. 
 
 ---
 ### Declan Franklin (Section 001)
@@ -203,3 +203,5 @@ I want to feel good about what I’m doing. Whatever that is. I think my ultimat
 Flatpicking Guitar, Mandolin, Baking Bread.
 
 **Give Andres Feedback Section**
+
+From Julia: I like how your answers are organized. Maybe next time, label your photo. It is cool that you like baking bread. 
