@@ -73,7 +73,9 @@ From Julia: I liked that you organized everything in an easy to read manner. Nex
 ### Julia Foley
 
 **Picture**
-![](me1.jpg)
+```{r, out.width = "400px", message=FALSE}
+knitr::include_graphics("me1.jpg")
+```
 
  **Question that can be answered with Data Analysis**
 
