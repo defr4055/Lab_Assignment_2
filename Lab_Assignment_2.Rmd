@@ -12,6 +12,9 @@ knitr::opts_knit$set(eval = TRUE)
 
 ## About The Team
 
+Team Name:
+**P-Hackers**
+
 Team Picture:
 
 
@@ -63,6 +66,7 @@ I used to want to be an engineer. After a summer of Interning with A Mechanical 
 
 **Give Declan Feedback below:**
 
+Julia: I liked that you organized everything in an easy to read manner. Next time, you could try to make sure that everything is properly spelled and throughly answered so it is easier for the reader to read. You seem to know what you are doing and have a good foundation on how to use R so that is good. 
 
 
 ---
@@ -71,7 +75,7 @@ I used to want to be an engineer. After a summer of Interning with A Mechanical 
 **Picture**
 ![](me1.pdf)
 
-**Question that can be answered with Data Analysis**
+ **Question that can be answered with Data Analysis**
 
 What Country is the cheapest to vacation to/in?
 
@@ -88,7 +92,11 @@ I hope that my greatest career accomplishment is that I can write a book about t
 I am hoping to learn more about coding and Data Science. Data Science is a useful tool no matter what career path you choose.
 
 **Personal**
+
 When I retire, I want to live off the grid and travel the world.
+
+**Give Julia Feedback Section**
+
 
 
 ---
@@ -117,4 +125,11 @@ I am hoping to decide if data science is for me.
 I think within the next 10 years automation will be taking many many jobs. I think you will either be making robots or losing your job to them. 
 
 **Thomas' Feedback**
+=======
+
+
+
+
+
+>>>>>>> Stashed changes
 ---
