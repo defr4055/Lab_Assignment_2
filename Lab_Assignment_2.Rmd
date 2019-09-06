@@ -109,6 +109,9 @@ From Thomas: You set a very good standard for this lab and it helped my format m
 
 **Picture**
 
+```{r, out.width = "400px", message=FALSE}
+knitr::include_graphics("Tom.JPG")
+```
 
 **Data science question**
 
