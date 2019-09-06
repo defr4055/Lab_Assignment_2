@@ -16,7 +16,9 @@ knitr::opts_knit$set(eval = TRUE)
 P-Hackers
 
 **Team Picture:**
-
+```{r, out.width = "400px", message=FALSE}
+knitr::include_graphics("Team.JPG")
+```
 
 
 **Team Goals:** 
@@ -105,9 +107,13 @@ I am hoping to learn more about coding and Data Science. Data Science is a usefu
 When I retire, I want to live off the grid and travel the world.
 
 **Give Julia Feedback Section**
+<<<<<<< Updated upstream
 1) You jumped into this project right away, and became a roll model for others. Thank you for also scratching the answers off on the TRat. 
 <<<<<<< Updated upstream
 From Nisia:Thank you for your input in the in-class quiz. Being in law school is a clever choice, especially with your career path. I am glad you said you want to live off the grid and travel the world, because you will be able to see other realities.
+=======
+From Declan: You jumped into this project right away, and became a roll model for others. Thank you for also scratching the answers off on the TRat. 
+>>>>>>> Stashed changes
 
 From Thomas: You set a very good standard for this lab and it helped my format my section.
 
@@ -154,7 +160,7 @@ From Andres: I like the depth of thought you put into your answers. You seem ver
 >>>>>>> Stashed changes
 
 
-1) You defiently did the reading and were able to figure out this project on your own. I think this is going to be a good year.
+From Declan: You defiently did the reading and were able to figure out this project on your own. I think this is going to be a good year.
 =======
 
 ### Nisia Pinto
@@ -188,7 +194,7 @@ From Andres: I love how much you have thought about your future. I'm often overw
 
 From Thomas: I realy like your 5 year career goal and can relate to it.
 
-
+From Declan: Thank you for staying invloved and countinuously working hard to get the project done. Communication is key, so I'm happy to have a team member like yourself.
 >>>>>>> Stashed changes
 ---
 
@@ -233,6 +239,11 @@ Flatpicking Guitar, Mandolin, Baking Bread.
 **Give Andres Feedback Section**
 
 From Julia: I like how your answers are organized. Maybe next time, label your photo. It is cool that you like baking bread. 
+<<<<<<< Updated upstream
 From Nisia: I really enjoy you like to face challenges. Yor motivation will be a valuable input for this team.
 
 From Thomas: I like you hobbies and hope to try your bread. Also its good to see someone whos main goal is to be happy.
+=======
+
+From Declan: I was nervous at first because you weren't on the GroupMe, but you did the individual part on your own and were up to speed just like you were there the whole time.
+>>>>>>> Stashed changes
