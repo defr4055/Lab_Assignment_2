@@ -12,15 +12,15 @@ knitr::opts_knit$set(eval = TRUE)
 
 ## About The Team
 
-Team Name:
-**P-Hackers**
+**Team Name:**
+P-Hackers
 
-Team Picture:
+**Team Picture:**
 
 
 
-Team Goals:   
-As a team
+**Team Goals:** 
+As a team, we would like to learn how to effectively communicate data and information through R. We would like to understand the basics of Data Science. 
 
 ---
 ### Declan Franklin (Section 001)
