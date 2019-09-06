@@ -90,4 +90,31 @@ I am hoping to learn more about coding and Data Science. Data Science is a usefu
 **Personal**
 When I retire, I want to live off the grid and travel the world.
 
+
+---
+### Thomas Neal
+
+**Picture**
+
+
+**Data science question**
+
+Can data science be used to predict future events based on past data? For example, by tracking the stock market can you then write a program to predict future market trends.
+
+**Post College Goals**
+
+Six months after college I want to have a steady job making good pay and have enough time to work on my projects. 5 years after college I want to be running my own company selling something I invented/created.
+
+**My Greatest Career Accomplishment**
+
+I want to create self-erecting "3D Printers" capable of building cheap and reliable infrastructure. Then help improve the infrastructure in underdeveloped countries. 
+
+**My Course Goal**
+
+I am hoping to decide if data science is for me.
+
+**Personal**
+I think within the next 10 years automation will be taking many many jobs. I think you will either be making robots or losing your job to them. 
+
+**Thomas' Feedback**
 ---
