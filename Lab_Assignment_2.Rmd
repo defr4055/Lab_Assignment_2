@@ -96,7 +96,7 @@ I am hoping to learn more about coding and Data Science. Data Science is a usefu
 When I retire, I want to live off the grid and travel the world.
 
 **Give Julia Feedback Section**
-
+1) You jumped into this project right away, and became a roll model for others. Thank you for also scratching the answers off on the TRat. 
 
 
 ---
@@ -125,6 +125,8 @@ I am hoping to decide if data science is for me.
 I think within the next 10 years automation will be taking many many jobs. I think you will either be making robots or losing your job to them. 
 
 **Thomas' Feedback**
+
+1) You defiently did the reading and were able to figure out this project on your own. I think this is going to be a good year.
 =======
 
 
