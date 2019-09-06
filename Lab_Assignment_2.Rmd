@@ -66,7 +66,7 @@ I used to want to be an engineer. After a summer of Interning with A Mechanical 
 
 **Give Declan Feedback below:**
 
-Julia: I liked that you organized everything in an easy to read manner. Next time, you could try to make sure that everything is properly spelled and throughly answered so it is easier for the reader to read. You seem to know what you are doing and have a good foundation on how to use R so that is good. 
+From Julia: I liked that you organized everything in an easy to read manner. Next time, you could try to make sure that everything is properly spelled and throughly answered so it is easier for the reader to read. You seem to know what you are doing and have a good foundation on how to use R so that is good. 
 
 
 ---
@@ -126,7 +126,7 @@ I think within the next 10 years automation will be taking many many jobs. I thi
 
 **Thomas' Feedback**
 
-Julia: I like how thorough your answers are. Maybe next time, have your answers follow the same layout and capitalization. I like how your about me section is easy to read.
+From Julia: I like how thorough your answers are. Maybe next time, have your answers follow the same layout and capitalization. I like how your about me section is easy to read.
 
 
 
@@ -159,7 +159,7 @@ Declan:Thank you for setting up the file. To read your experience as a mechanica
 
 Thomas Neal: I really hope you like this class and I am excited to see how one day you will change the infrastructure of these countries.
 
-
+From Julia: I like how on top of things you are. Maybe next time, make sure you have the same capitalization for all your titles. I like how easy to read everything is. 
 
 
 >>>>>>> Stashed changes
